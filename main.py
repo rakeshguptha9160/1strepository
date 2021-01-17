@@ -2,7 +2,7 @@
 
 import time
 i = 1
-while i < 7:
+while i < 6:
     print(i)
     print('Hello, world!')
     time.sleep(10.4)
